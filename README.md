@@ -35,10 +35,10 @@ Com o banco de dados criado só nos resta executar as _migrations_ para criar as
 php artisan migrate
 ```
 
-O processo de criação das tabelas vai levar alguns segundos, depois de terminado, basta iniciar o projeto com:
+O processo de criação das tabelas vai levar alguns segundos, depois de terminado, basta rodar o projeto com o comando:
 ```
 php artisan serve
 ```
 ##
 
-`NOTA:` Esta é apenas a API, para ver o projeto rodadno acesse o front-end [clicando aqui](https://github.com/Francisco-Fetapi/sistema-login-front-end)
+`NOTA:` Esta é apenas a API, para ver o projeto rodando acesse o front-end [clicando aqui](https://github.com/Francisco-Fetapi/sistema-login-front-end)
