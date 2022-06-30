@@ -25,7 +25,7 @@ Depois de clonar o repositório, acessar a pasta do projeto via terminal e insta
 composer install
 ```
 
-Após todas as dependencias serem instaladas deve-se criar o banco de dados do projeto. Acesse algum SGBD e crie a tabela que se chama "autenticacao_jwt" como se vê na imagem abaixo (com PHPMyAdmin):
+Após todas as dependencias serem instaladas deve-se criar o banco de dados do projeto. Acesse algum SGBD e crie um banco de dados com o nome **"autenticacao_jwt"** como se vê na imagem abaixo (com PHPMyAdmin):
 
 ![#1](https://user-images.githubusercontent.com/74926014/176718192-a70b816b-e747-41ca-90cd-21a3b51817e4.PNG)
 
