@@ -1,6 +1,13 @@
 # Sistema de Login (com JWT) - Back-end
 
-🚀 _Criado para fins de estudo_
+<p align="center">
+<a href="https://github.com/Francisco-Fetapi/sistema-login-jwt-back-end/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Francisco-Fetapi/sistema-login-jwt-back-end?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/sistema-login-jwt-back-end"><img alt="GitHub license" src="https://img.shields.io/badge/Exercise-For%20trainning-orange"></a>
+<a href="https://github.com/Francisco-Fetapi/sistema-login-jwt-back-end/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Francisco-Fetapi/sistema-login-jwt-back-end?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/sistema-login-jwt-back-end/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Francisco-Fetapi/sistema-login-jwt-back-end?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/sistema-login-jwt-back-end"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/sistema-login-jwt-back-end?style=plastic"></a>
+</p>
+
 
 Projeto criado para consolidar os conhecimentos em Laravel na questão da _autenticação via JWT (JSON Web Token)_. 
 <br /> <br />
